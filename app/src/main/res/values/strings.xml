@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Opportunity Tracker</string>
+    <string name="share_processing">Extracting opportunity details...</string>
+    <string name="share_success">Opportunity saved to Calendar &amp; Alarm set!</string>
+    <string name="share_error">Failed to extract opportunity details</string>
+    <string name="action_open_form">Open Form</string>
+    <string name="action_view_app">View Details</string>
+    <string name="action_snooze">Snooze 1h</string>
+    <string name="action_dismiss">Dismiss Alarm</string>
+    <string name="alarm_channel_name">Opportunity Alarms</string>
+    <string name="alarm_channel_desc">Critical unmissable alarms for opportunity deadlines</string>
+    <string name="sync_channel_name">Opportunity Sync</string>
+    <string name="sync_channel_desc">Status of background opportunity extraction and calendar sync</string>
+</resources>

@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clock / Calendar Icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,20c-18.78,0 -34,15.22 -34,34s15.22,34 34,34 34,-15.22 34,-34 -15.22,-34 -34,-34zM54,81c-14.91,0 -27,-12.09 -27,-27s12.09,-27 27,-27 27,12.09 27,27 -12.09,27 -27,27z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,34h4v20l14,8.4 -2,3.3 -16,-9.7z" />
+</vector>
